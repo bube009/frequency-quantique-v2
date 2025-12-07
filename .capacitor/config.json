@@ -1,0 +1,6 @@
+{
+  "appId": "com.ionicframeworkMyIonicApp"
+  "appName": "Frequency Quantique",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
