@@ -1,7 +1,0 @@
-{
-  "name": "frequency-quantique",
-  "type": "vue-vite",
-  "integrations": {
-    "capacitor": {}
-  }
-}
