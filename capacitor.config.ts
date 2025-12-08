@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: '.com.ionicframeworkMyIonicApp
+  appId: '.com.alexfournier.frequencyquantique'
     .',
   appName: 'Frequency.Quantique',
   webDir: 'dist',
