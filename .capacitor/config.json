@@ -1,5 +1,5 @@
 {
-  "appId": "com.ionicframeworkMyIonicApp",
+  "appId": ".com.alexfournier.frequencyquantique"
   "appName": "Frequency.Quantique",
   "webDir": "dist",
   "bundledWebRuntime": false
