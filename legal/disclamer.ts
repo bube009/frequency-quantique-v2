@@ -1,4 +1,5 @@
 export const disclaimer = `
-Cette application est destinée au bien-être et au biofeedback.
-Elle ne remplace aucun avis médical.
+Frequency Quantique est une application de bien-être.
+Elle ne fournit aucun diagnostic médical.
+Les données sont informatives uniquement.
 `;
