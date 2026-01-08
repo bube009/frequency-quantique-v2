@@ -1,3 +1,5 @@
 export function coherenceScore(hrv: number): number {
-  return Math.min(100, Math.max(0, hrv));
+  if (hrv < 20) return 30;
+  if (hrv < 50) return 60;
+  return 90;
 }
