@@ -1,4 +1,7 @@
-<template>
+import { calculateHRV } from '../engine/hrvAnalyzer'
+import { coherenceScore } from '../engine/coherenceEngine'
+import { mapFrequency } from '../engine/frequencyMapper'
+import { play, stop } from '../audio/oscillator'<template>
   <ion-page>
     <ion-content class="ion-padding">
       <h2>Scan cardiaque</h2>
