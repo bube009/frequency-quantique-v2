@@ -4,11 +4,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-  "build": "vite build",
-  "ionic:build": "npm run build",
-  "ionic:serve": "vite",
-  "dev": "vite"
-}
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@ionic/vue": "^7.0.0",
@@ -22,3 +20,4 @@
     "typescript": "^5.0.0",
     "vite": "^4.0.0"
   }
+}
