@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "preview vite"
-  }
+  },
     "dependencies": {,
   "@ionic/vue": "^7.0.0",
   "@ionic/vue-router": "^7.0.0",
